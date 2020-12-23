@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1064356658326-bhuieq37eh5vemumfb4b0q9qv6jq147t.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1064356658326-bhuieq37eh5vemumfb4b0q9qv6jq147t</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>1064356658326-kcr8lo0e2dr4pmidagn56rngpvpjjm3q.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBx6f80CT62FXJJXBanc5vN2D3DsGZP9R0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1064356658326</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.akwad.tagaddod</string>
+	<key>PROJECT_ID</key>
+	<string>tagaddod-d8ffe</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tagaddod-d8ffe.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1064356658326:ios:39edefea0d1c24af4816b7</string>
+	<key>DATABASE_URL</key>
+	<string>https://tagaddod-d8ffe.firebaseio.com</string>
+</dict>
+</plist>

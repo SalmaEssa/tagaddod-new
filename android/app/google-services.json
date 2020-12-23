@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1064356658326",
+    "firebase_url": "https://tagaddod-d8ffe.firebaseio.com",
+    "project_id": "tagaddod-d8ffe",
+    "storage_bucket": "tagaddod-d8ffe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064356658326:android:ced72758712575424816b7",
+        "android_client_info": {
+          "package_name": "com.akwad.tagaddod"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1064356658326-kcr8lo0e2dr4pmidagn56rngpvpjjm3q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.akwad.tagaddod",
+            "certificate_hash": "cfedfdbb1f0a0bc23dc4ad8536bce221125dcfac"
+          }
+        },
+        {
+          "client_id": "1064356658326-dca7ngjo3ce8e8um6o4ukogveh24kq8d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOKk9-3gjxaqgdJvYmvo2gy6yeam-RnXk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1064356658326-dca7ngjo3ce8e8um6o4ukogveh24kq8d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
